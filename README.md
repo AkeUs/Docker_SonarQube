@@ -1,2 +1,5 @@
-# Docker_SonarQube
-Docker Compose para levantar infraestructura de SonarQube
+# Docker SonarQube
+
+Docker Compose para levantar infraestructura de SonarQube.
+
+Infraestructura basica.
