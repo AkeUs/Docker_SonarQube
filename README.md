@@ -2,4 +2,7 @@
 
 Docker Compose para levantar infraestructura de SonarQube.
 
-Infraestructura basica.
+Para levantar la aplicacion:
+
+``
+docker-compose up -d
